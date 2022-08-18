@@ -1,0 +1,13 @@
+*.exe
+*.idea
+*.gradle
+*.bat
+gradlew
+gradle
+
+*.class
+
+*.vscode
+
+*.dSYM
+
